@@ -179,11 +179,4 @@ All settings are in `config.py` (or overridable via `.env`):
 
 ---
 
-## Next Steps
 
-Once you're comfortable with this project, try:
-
-- Adding new tools (see [ARCHITECTURE.md § 7](ARCHITECTURE.md#7-how-to-add-your-own-tools))
-- Switching to OpenAI's native function calling API
-- Adding persistent memory between sessions
-- Building a web UI with Streamlit
