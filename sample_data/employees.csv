@@ -1,0 +1,16 @@
+employee_id,name,department,title,salary,hire_date,location
+E001,Alice Johnson,Engineering,Senior Developer,125000,2021-03-15,New York
+E002,Bob Smith,Marketing,Marketing Manager,95000,2020-06-01,Chicago
+E003,Carol Davis,Engineering,Junior Developer,78000,2023-01-10,New York
+E004,David Wilson,Sales,Sales Representative,65000,2022-09-20,Los Angeles
+E005,Eva Martinez,Engineering,Tech Lead,140000,2019-11-05,New York
+E006,Frank Brown,Marketing,Content Specialist,72000,2023-04-18,Chicago
+E007,Grace Lee,Sales,Sales Manager,110000,2021-07-22,Los Angeles
+E008,Henry Taylor,Engineering,DevOps Engineer,118000,2022-02-14,San Francisco
+E009,Ivy Chen,HR,HR Coordinator,68000,2023-08-01,Chicago
+E010,Jack Nguyen,Engineering,Senior Developer,130000,2020-01-20,San Francisco
+E011,Karen White,Sales,Sales Representative,62000,2024-01-15,Los Angeles
+E012,Liam Patel,Marketing,Marketing Director,135000,2018-05-10,New York
+E013,Maria Garcia,HR,HR Manager,105000,2019-03-25,Chicago
+E014,Nathan Kim,Engineering,Junior Developer,80000,2023-11-01,San Francisco
+E015,Olivia Jones,Sales,Account Executive,88000,2022-06-30,New York

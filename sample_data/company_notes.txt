@@ -1,0 +1,80 @@
+============================================================
+ACME CORP — INTERNAL NOTES & MEETING SUMMARIES
+============================================================
+
+--- Q1 2024 All-Hands Meeting (January 15, 2024) ---
+
+CEO Opening Remarks:
+Last year we achieved record revenue of $12.5M, a 22% increase over 2022.
+Our customer base grew to 3,400 active accounts. The North region led with
+35% of total sales, followed by South at 28%.
+
+Key priorities for 2024:
+  1. Launch the new SaaS platform by Q3.
+  2. Expand into the European market.
+  3. Reduce customer churn from 8% to under 5%.
+  4. Hire 20 new engineers to support product growth.
+
+Budget allocation for 2024:
+  - Engineering: $4.2M (up 30% from 2023)
+  - Marketing:   $1.8M (up 15%)
+  - Sales:       $2.1M (flat)
+  - Operations:  $1.5M (up 10%)
+
+
+--- Q2 Strategy Review (April 5, 2024) ---
+
+Product Update:
+The SaaS platform alpha is on track. The engineering team completed the
+core API layer and authentication module. Beta testing is planned for
+June 2024. Early feedback from 12 pilot customers has been positive,
+with a Net Promoter Score of 72.
+
+Marketing Update:
+The new content marketing strategy drove a 40% increase in website traffic.
+Social media engagement is up 55% quarter-over-quarter. The team launched
+3 case studies and 2 whitepapers that generated 850 qualified leads.
+
+Sales Update:
+Q1 closed with $3.8M in revenue, exceeding the $3.5M target by 8.6%.
+The electronics category continues to be the top performer, accounting
+for 62% of revenue. Furniture grew 18% compared to Q1 2023.
+
+HR Update:
+We hired 8 new team members in Q1, including 5 engineers. Employee
+satisfaction score rose to 4.2 out of 5.0. The new mentorship program
+has 15 active mentor-mentee pairs.
+
+
+--- Q3 Performance Review (July 20, 2024) ---
+
+Revenue Summary:
+Q2 revenue reached $4.1M, bringing the H1 total to $7.9M (63% of the
+annual target of $12.5M). We are on track to meet or exceed the full-year goal.
+
+Product Milestone:
+The SaaS platform beta launched on June 15 with 50 early-access customers.
+Uptime has been 99.7%. Three critical bugs were fixed within the first week.
+Customer onboarding time averaged 2.3 days, beating the 5-day target.
+
+European Expansion:
+Market research is complete. We identified Germany, UK, and France as
+priority markets. A local sales team of 3 will be hired in Q3. The
+regulatory compliance review is underway with an external law firm.
+
+Challenges:
+  - Supply chain delays pushed 12 furniture orders into Q3.
+  - Two senior engineers resigned; backfill hiring is in progress.
+  - Customer churn rate is at 6.5%, down from 8% but still above the 5% goal.
+
+
+--- Company-Wide Announcement (August 1, 2024) ---
+
+We are excited to announce a new partnership with GlobalTech Solutions.
+This partnership will give us access to their distribution network across
+15 countries. Expected impact: 20-25% increase in international sales
+by Q1 2025.
+
+Additionally, the Board has approved a $2M investment in AI and machine
+learning capabilities. A new AI team of 4 will be formed under the
+Engineering department, led by Dr. Sarah Park (starting September 2024).
