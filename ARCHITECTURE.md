@@ -292,9 +292,4 @@ The agent will automatically see the new tool in its system prompt and can start
 - No persistent memory between sessions.
 - Tools are local-only (no web search, no API calls).
 
-**Ideas for extending**:
-- Add a **web search tool** using an API like SerpAPI or Tavily.
-- Add **memory** — save conversation history to a file or database.
-- Switch to OpenAI's **function calling** API for more reliable tool selection.
-- Add a **summarizer tool** that condenses long text.
-- Build a **web UI** using Streamlit or Gradio.
+
